@@ -1,0 +1,6 @@
+Execution flow how to?
+Logging, what kind logs? howit should be looks?
+Return for function
+net/http or smt else?
+Slices, maps collect and set to nil?
+If I need to collect smt and it took long time, where I should be do this?
